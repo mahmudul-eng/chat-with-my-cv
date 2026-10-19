@@ -98,4 +98,4 @@ To use your own CV, replace `cv.pdf` and update the name and prompt in `app_stre
 
 **Mahmudul**
 GitHub: [@mahmudul-eng](https://github.com/mahmudul-eng)
-LinkedIn: [add your profile link](https://www.linkedin.com/in/mmahmudul-islam/)
+LinkedIn: [mahmudul-islam](https://www.linkedin.com/in/mmahmudul-islam/)
