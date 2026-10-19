@@ -2,7 +2,7 @@
 
 A RAG (Retrieval-Augmented Generation) chatbot that answers questions about my CV. Visitors can ask about my skills, projects, education, and experience, and the assistant answers using only the content of my CV.
 
-**Live demo:** [your-app-name.streamlit.app](https://chat-with-mahmudul.streamlit.app/)
+**Live demo:** [chat-with-mahmudul.streamlit.app](https://chat-with-mahmudul.streamlit.app/)
 
 ## Features
 
