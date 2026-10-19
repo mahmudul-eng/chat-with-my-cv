@@ -2,7 +2,7 @@
 
 A RAG (Retrieval-Augmented Generation) chatbot that answers questions about my CV. Visitors can ask about my skills, projects, education, and experience, and the assistant answers using only the content of my CV.
 
-**Live demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) <!-- replace with your Streamlit link -->
+**Live demo:** [your-app-name.streamlit.app](https://chat-with-mahmudul.streamlit.app/)
 
 ## Features
 
@@ -98,4 +98,4 @@ To use your own CV, replace `cv.pdf` and update the name and prompt in `app_stre
 
 **Mahmudul**
 GitHub: [@mahmudul-eng](https://github.com/mahmudul-eng)
-LinkedIn: [add your profile link](https://www.linkedin.com/) <!-- replace with your LinkedIn URL -->
+LinkedIn: [add your profile link](https://www.linkedin.com/in/mmahmudul-islam/)
