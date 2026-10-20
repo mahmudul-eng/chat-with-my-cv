@@ -27,7 +27,7 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions about my C
 | --- | --- |
 | UI | Streamlit |
 | Orchestration | LangChain |
-| LLM | Groq (Llama 3.3 70B by default) |
+| LLM | Groq (GPT-OSS 20B) |
 | Embeddings | Hugging Face sentence-transformers |
 | Vector store | FAISS |
 | PDF loading | pypdf |
